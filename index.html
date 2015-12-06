@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+
+  <h1 class="page-heading">Some projects</h1>
+
+  <ul class="page-list">
+    <li>
+      <h3>
+        <a class="page-link" href="/animator ">Animator</a>
+      </h3>
+    </li>
+    <li>
+      <h3>
+        <a class="page-link" href="{{ "/pentest" | prepend: site.baseurl }}">Anoto PenTest</a>
+      </h3>
+    </li>
+  </ul>
+
+
+</div>
