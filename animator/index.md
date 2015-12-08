@@ -1,8 +1,8 @@
----
-layout: page
-title: Animator
-permalink: /animator/
----
+#---
+#layout: page
+#title: Animator
+#permalink: /animator/
+#---
 
 # Animator
 
