@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am Håkan Eriksson. I do programming for a living, and sometimes at home. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+At work, I mainly write C code for embedded devices, plus Python code for automatic tests, build scripts, and general good-to-have scripts. But wait, there's more: some C# for production test methods, and the occasional Arduino C code for use in our test framework.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+At home, it can be a lot of things. For instance: Mac applications in Objective-C (haven't yet made the jump to Swift, looking forward to!), C# applications, Python applications, and even a Minecraft plugin in Java (yes, a very small one). 
