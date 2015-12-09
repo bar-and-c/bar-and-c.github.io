@@ -10,6 +10,8 @@ title: Håkan Eriksson's Portfolio
 email: uheriks@yahoo.ca
 description: > # this means to ignore newlines until "baseurl:"
   A fine collection of stuff I have made. 
+  <br>
+  © Håkan Eriksson
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bar-and-c.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
