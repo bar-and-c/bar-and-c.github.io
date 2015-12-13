@@ -2,6 +2,9 @@
 layout: page
 title: About
 permalink: /about/
+
+# Custom Front Matter to define which pages I want linked in the header
+in_header: true
 ---
 
 I am Håkan Eriksson. I do programming for a living, and sometimes at home. 
