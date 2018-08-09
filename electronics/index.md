@@ -20,11 +20,26 @@ After building a VCO from a kit (Thomas Henry's Maximus) the first thing I attem
 
 ![SSS-1](sss1.jpg "Super Simple Sequencer")
 
+The prototype schematic has been given an overhaul that last few days, will probably order an actual PCB for it soon (seems like a good thing to have plenty of).
 
 ### Eurorack low pass filter
 The second module I've built from scratch was a passive vactrol based low pass filter. Super cheap, super simple – I really love it because it brings a *lot* of value to my so far sparse setup, very much value for very little effort. It is the best thing.
 
 <https://github.com/bar-and-c/electronicsoundmachines/blob/master/passive_aggressive_lpg>
+
+### Eurorack VCO-1
+Then, the first PCB I ever made, a straight forward implementation of Thomas Henry's VCO-1.
+
+![VCO-1](vco-1.jpg "Thomas Henry's VCO-1, rev A")
+
+Even though it was my first PCB, I was convinced it would be flawless, even more so when it arrived, looking very well done – not until I was done and powered it up did I discover several sloppy mistakes. A humbling experience. 
+But a few hardware patches later, and it works. 
+
+The panel is laser cut from plywood at STPLN – that worked surprisingly well, at least when the wood fibres are in the correct direction.
+
+<https://github.com/bar-and-c/electronicsoundmachines/tree/master/th-vco-1>
+
+The next PCB, in production at the time of writing, is a VCO based on CEM3340, which I am convinced will be amazingly good (after any potential HW patches).
 
 ### Crossover distortion pedal
 A distortion pedal that attempts to create crossover distortion (as well as regular fuzz). It is my own idea, augmented by findings online.
