@@ -7,6 +7,11 @@ permalink: /electronics/
 Sometime around 2017 I started to pick up an old interest of mine, audio related electronic. I have some education on the subject – a little from Chalmers, but the most useful stuff I learned at AMU in my mid twenties – as well as experience from repairing stuff (mixer consoles, Hammond organ, amplifiers, effect pedals, etc).
 It is unclear why this interest surfaced now, but it is very much fun. 
 
+During the first half of 2018 I arranged workshops for people wanting to build effect pedals. About 10-15 people showed up, and it was very much fun! I am planning to continue with that, but haven't yet decided on what exactly to do (I am leaning towards synthesizers). The main thing I get out of these meetings is seeing people – some with no previous soldering skills at all – put a guitar pedal together. 
+
+The little information site I made at the start of the workshops is quite messy at this point, since I've added info/ramblings about synthesizer projects that may or may not happen, but if you'r ereally interested: <https://bar-and-c.github.io/electronicsoundmachines/>
+
+
 ### CR-78 metallic beat drum
 I used to own a Roland CR-78 (still regret selling it) and having access to the schematic I decided to build some of the sounds, starting with the classic Metallic Beat. 
 
